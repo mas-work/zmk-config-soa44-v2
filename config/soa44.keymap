@@ -65,7 +65,7 @@
             bindings = <
 &kp ESCAPE      &kp Q             &kp W         &kp E        &mt NUMBER_4 R    &kp T             &kp Y       &kp U      &kp I  &kp O      &kp P          &kp BACKSPACE
 &kp TAB         &kp A             &kp S         &kp D        &kp F             &kp G             &kp H       &kp J      &kp K  &kp L      &kp SEMICOLON  &kp ENTER
-&kp LEFT_SHIFT  &kp Z             &kp X         &kp C        &kp V             &lt 6 B           &kp MINUS   &kp N      &kp M  &kp COMMA  &kp DOT        &kp SLASH
+&kp LEFT_SHIFT  &kp Z             &kp X         &kp C        &kp V             &lt 6 B           &kp MINUS   &kp N      &kp M  &kp COMMA  &kp DOT        &lt 1 SLASH
                 &kp LEFT_CONTROL  &kp LEFT_WIN  &lt 1 SPACE  &lt 2 LANGUAGE_1  &lt 3 LANGUAGE_2  &lt 4 CLCK  &lt 5 DEL                    &kp RIGHT_ALT
             >;
         };
